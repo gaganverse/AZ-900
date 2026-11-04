@@ -5,7 +5,7 @@
 | No. | Topic | Definition / Key Point |
 |---|---|---|
 | 1 | Cloud Service Models | Three main cloud service models: **IaaS, PaaS, SaaS**. |
-| 2 | Cloud Deployment Models | **Public cloud:** Shared infrastructure managed by provider. **Private cloud:** Dedicated to one organization. **Hybrid cloud:** Combination of public and private environments. |
+| 2 | Cloud Deployment Models | **Public cloud:** Shared infrastructure managed by cloud provider.<br> **Private cloud:** Dedicated to one organization.<br> **Hybrid cloud:** Combination of public and private environments. |
 | 3 | Shared Responsibility Model | Security responsibilities are **shared between Microsoft and the customer**. |
 | 4 | Azure Regions | A **geographic area** containing one or more Azure datacenters. |
 | 5 | Availability Zones | **Physically separate locations within an Azure region**, with independent power, cooling, and networking. |
